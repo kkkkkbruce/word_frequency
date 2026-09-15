@@ -1,3 +1,14 @@
+#-------------------------------------------------------------------------------
+# Name:        word_frequency.py
+# Purpose:     strip a list of words excluding punctuation and numbers, then 
+#              count the frequency of each word and write to a new file
+#
+# Author:      Kevin - vibe coded with the help of qwen2.5-coder:7b
+#
+# Created:     15/Sept/2026
+# Copyright:   (c) Kevin 2026
+# Licence:     MIT License
+#-------------------------------------------------------------------------------
 import string
 from collections import Counter
 import re
